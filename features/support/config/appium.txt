@@ -1,0 +1,12 @@
+[caps]
+platformName = "Android"
+platformVersion = "6.0"
+automationName = "UIAutomator2"
+deviceName = "Android Device"
+uuid = "emulator-5556"
+app = "FasTip.apk"
+appPackage = "org.traeg.fastip"
+appActivity = ".MainActivity"
+
+[appium_lib]
+wait = 60
